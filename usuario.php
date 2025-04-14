@@ -86,7 +86,6 @@
                         <h4 class="mb-0">Veículos cadastrados 📝</h4>
                     </div>
                     <div class="card-body">
-
                         <div class="table-responsive">
                             <table class="table table-striped table-hover">
                                 <thead>
